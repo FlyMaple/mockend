@@ -3,7 +3,9 @@
 ```json
 {
     "Config": {
-        "connection_command": "FORCE_DISCONNECT"
+        "connection_command": {
+            "value": "FORCE_DISCONNECT"
+        }
     }
 }
 ```
