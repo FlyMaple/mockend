@@ -1,0 +1,5 @@
+{
+    "Config": {
+        "connection_command": "FORCE_DISCONNECT"
+    }
+}
